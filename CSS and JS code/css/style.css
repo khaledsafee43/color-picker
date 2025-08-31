@@ -7,15 +7,15 @@ body{
     margin: 0;
     /* background-color: #f0f0f0; */
     /* background-image: url('Awesome_1382785135884.jpg'); */
-    background: linear-gradient(80deg, black, rgb(42,15,10));
+    background: linear-gradient(45deg, rgb(218, 171, 16), rgb(216, 230, 13));
 }
 
 
 .color-picker{
-    background: linear-gradient(45deg, rgb(255, 222, 21), greenyellow);
+    background: linear-gradient(45deg, rgb(218, 171, 16), rgb(216, 230, 13));
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(2, 214, 186, 0.897);
+    box-shadow: 0 0 5px black;
     text-align: center;
     color: white;
     animation: mmk 3s ease-in-out;
